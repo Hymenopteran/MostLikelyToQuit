@@ -19,4 +19,4 @@ According to Agresti, AUC is a better evaluation metric than an error matrix for
 
 # Conclusions
   
-From this data we can divine the profile of a "typical" quit employee: a low-level employee working overtime and frequently traveling for business who is very unsatisfied with their position. Additionally, the data suggests this person might be single and work in sales or possess a technical degree.
+From this data we can divine the profile of a "typical" quit employee for this organization: a low-level employee working overtime and frequently traveling for business who is very unsatisfied with their position. Additionally, the data suggests this person might be single and work in sales or possess a technical degree.
